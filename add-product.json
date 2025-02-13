@@ -1,0 +1,80 @@
+[
+    {
+        "name": "oppo F12 Pro",
+        "price": 12000,
+        "description": "Best For Gaming And Battery Backup",
+        "images": [
+            {
+                "image": "/images/products/oppo.jpg"
+            }
+        ],
+        "category": "Mobile-Phones",
+        "seller": "Morinig Star",
+        "stock": 3
+    },
+    {
+        "name": "Boat NeckBand HeadPhones",
+        "price": 120000,
+        "description": "Beast Level Build Quality , Best Experience",
+        "images": [
+            {
+                "image": "/images/products/boat.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Vel Mobiles",
+        "stock": 12
+    },
+    {
+        "name": "Iphone 13 Pro",
+        "price": 55000,
+        "description": "Best For Gaming And PhotoGraphy and More... , A13 Bionic Chip Used",
+        "images": [
+            {
+                "image": "/images/products/iphone-13.jpg"
+            }
+        ],
+        "category": "Mobile-Phones",
+        "seller": "FlipKart",
+        "stock": 16
+    },
+    {
+        "name": "Black Turtle Neck T-Shirt",
+        "price": 1000,
+        "description": "More Comfortable And More Elastic",
+        "images": [
+            {
+                "image": "/images/products/turtle.jpg"
+            }
+        ],
+        "category": "Men Shirts",
+        "seller": "FlipKart",
+        "stock": 19
+    },
+    {
+        "name": "Sneaker Shoes",
+        "price": 650,
+        "description": "Top Level Canvas Shoes , Best For Sports And Athletics",
+        "images": [
+            {
+                "image": "/images/products/sneaker.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Allwin Sports",
+        "stock": 31
+    },
+    {
+        "name": "Dell Inspriation Laptop",
+        "price": 31000,
+        "description": "Latest SnapDragon 8th Gen MicroProcessor Used , Capable For Office Use",
+        "images": [
+            {
+                "image": "/images/products/dell.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "FlipKart",
+        "stock": 14
+    }
+]
