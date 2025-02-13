@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Samsung Galaxy A12",
+        "price": 80000,
+        "description": "Best For Gaming And PhotoGraphy",
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Mobile-Phones",
+        "seller": "Amazon",
+        "stock": 5
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 120000,
+        "description": "Latest SnapDragon 8th Gen MicroProcessor Used",
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile-Phones",
+        "seller": "Vel Mobiles",
+        "stock": 59
+    },
+    {
+        "name": "Iphone 15 Pro Max",
+        "price": 95000,
+        "description": "Best For Gaming And PhotoGraphy and More... , A15 Bionic Chip Used",
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Mobile-Phones",
+        "seller": "FlipKart",
+        "stock": 85
+    },
+    {
+        "name": "P47 Wireless HeadPhones",
+        "price": 1000,
+        "description": "Fell The Real Dolby Atmos Top Sound Effects and Battery Backup",
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "FlipKart",
+        "stock": 92
+    },
+    {
+        "name": "Active Cell Canvas Shoes",
+        "price": 500,
+        "description": "Top Level Canvas Shoes , Best For Sports And Athletics",
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Allwin Sports",
+        "stock": 39
+    },
+    {
+        "name": "Asus Rog Gaming Laptop",
+        "price": 31000,
+        "description": "Latest SnapDragon 8th Gen MicroProcessor Used , Top Notch Gaming",
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "FlipKart",
+        "stock": 34
+    }
+]
