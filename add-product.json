@@ -13,12 +13,12 @@
         "stock": 3
     },
     {
-        "name": "Boat NeckBand HeadPhones",
+        "name": "Boat Wireless TWS",
         "price": 120000,
         "description": "Beast Level Build Quality , Best Experience",
         "images": [
             {
-                "image": "/images/products/boat.png"
+                "image": "/images/products/boat.jpg"
             }
         ],
         "category": "Electronics",
